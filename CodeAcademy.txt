@@ -12,4 +12,10 @@ console.log("Good joke? " + myBoolean);
 2.
 console.log('Chicken.', 'Pineapple');
 
+3.
+console.log(17+3.5)
+console.log(2016-1969)
+console.log(65/240)
+console.log(0.2708333333333333*100)
+
 
