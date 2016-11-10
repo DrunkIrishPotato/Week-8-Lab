@@ -1,3 +1,4 @@
+1.
 var myString = 'Jade';
 var myNumber = 21;
 var myBoolean = false;
@@ -7,3 +8,8 @@ var myBoolean = false;
 console.log("Name: " + myString);
 console.log("Lucky Number: " + myNumber);
 console.log("Good joke? " + myBoolean);
+
+2.
+console.log('Chicken.', 'Pineapple');
+
+
